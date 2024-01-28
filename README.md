@@ -32,7 +32,7 @@ $ npm run dev (Run server)
 
 ## Deployment
 
-Live demo 
+[click here to check live version](https://resplendent-pithivier-22046c.netlify.app/)
 
 ## Additional Documentation and Acknowledgments
 
