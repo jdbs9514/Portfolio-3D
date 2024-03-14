@@ -230,16 +230,16 @@ export const projects = [
   {
     iconUrl: books,
     theme: 'btn-back-red',
-    name: 'Book Fair Page',
-    description: 'THE BOOK FAIR PAGE IS A PAGE DEDICATED TO ALL THE LOVERS OF READING, IN THIS PAGE YOU CAN FIND INFORMATION ABOUT THE LAST BOOK FAIR IN PERU WHERE SEVERAL WELL-KNOWN WRITERS WERE PRESENTED.',
-    link:'https://jdbs9514.github.io/Capstone-project/'
+    name: 'Admin Dashboard',
+    description: 'ADMIN DASHBOARD IS A WEBSITE MADE WITH REACT AND REDUX FOR THE USE OF A SIMPLE ADMINISTRATOR PANEL, IN THEORY, IT, THIS PROVIDE YOU STATISTIC ABOUT YOUR BUSSINESS.',
+    link:'https://dev--lucky-moxie-8d5dd8.netlify.app/'
   },
 
   {
     iconUrl: math,
     theme: 'btn-back-blue',
-    name: 'Math Magicians',
-    description: 'THE MATH MAGICIAN APP IS A WEBSITE MADE WITH REACT FOR THE USE OF SIMPLE MATHEMATICAL OPERATIONS, IN THEORY, IT IS AN ONLINE CALCULATOR SO THAT CHILDREN CAN DO THEIR BASIC OPERATIONS AND ADAPT TO THE WEB WORLD.',
+    name: 'Nike Clone',
+    description: 'NIKE CLONE IS A WEBSITE TO DISPLAY THE LATEST NIKE PRODUCTS AND SOME COMMENTS ABOUT THE QUALITY AND USER EXPERIENCE, THIS SIMPLE LANDING PAGE WAS BUILT WITH REACT',
     link: 'https://elaborate-malabi-9452c6.netlify.app/'
   },
 
